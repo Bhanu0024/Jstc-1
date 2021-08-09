@@ -24,6 +24,7 @@
             <option value="java">java </option>
             <option value="c++">C++</option>
             <option value="pyhon">python</option>
+        <option value="Angular">Angular</option>
         </select>
         <br>
         query:<textarea type="text" name="query" ></textarea><br>
